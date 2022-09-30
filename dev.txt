@@ -1,4 +1,9 @@
 this is development file
+<<<<<<< HEAD
+please finish your task
+make changes at 5pm
+i made some changes on 28/09
+=======
 <<<<<<< Updated upstream
 please finish your task
 =======
@@ -6,3 +11,4 @@ please finish your task
 make changes at 5pm
 hello
 >>>>>>> Stashed changes
+>>>>>>> devbranch
