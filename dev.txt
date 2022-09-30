@@ -1,2 +1,8 @@
 this is development file
+<<<<<<< Updated upstream
 please finish your task
+=======
+please finish your task
+make changes at 5pm
+hello
+>>>>>>> Stashed changes
