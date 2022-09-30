@@ -1,3 +1,7 @@
 hello
 development is development
+<<<<<<< HEAD
 changing in mybranch
+=======
+this is new message
+>>>>>>> devbranch
